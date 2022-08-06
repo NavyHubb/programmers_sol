@@ -11,7 +11,8 @@ public class test03 {
 				
 		System.out.println(solution(a));
 		
-
+		ip.close()
+		
 	}
 	
     public static String solution(String s) {
