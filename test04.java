@@ -1,5 +1,5 @@
 package prac;
-
+//title - 두 정수 사이의 합
 import java.util.Scanner; //Scanner 클래스 내의 method 사용을 위한 호출. java.util 패키지 안에 Scanner 클래스가 있다.
 
 public class test04 {
